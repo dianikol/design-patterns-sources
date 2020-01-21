@@ -1,0 +1,6 @@
+Facade Pattern
+  https://www.sitepoint.com/manage-complexity-with-the-facade-pattern/
+  https://www.geeksforgeeks.org/facade-design-pattern-introduction/
+  https://code.tutsplus.com/tutorials/design-patterns-the-facade-pattern--cms-22238
+  https://medium.com/@mlbors/in-this-post-we-are-going-to-look-at-the-facade-pattern-933296b3e011
+  http://www.inanzzz.com/index.php/post/7p0w/facade-design-pattern-example-in-php
